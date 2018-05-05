@@ -3,7 +3,7 @@
 #
 # Author: Clyde Waal, clyde.waal@mendix.com
 # Version: 1.0
-FROM ubuntu:latest
+FROM ubuntu:trusty
 LABEL Author="Mendix Digital Ecosystems"
 LABEL maintainer="digitalecosystems@mendix.com"
 
